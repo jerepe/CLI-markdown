@@ -1,6 +1,7 @@
 # My CLI repo
 
-This repo is an exercise intended to further familiarize myself 
+\+This repo is \**an exercise\** intended to further familiarize 
+myself 
 with the CLI[^1].
 
 It has been created using content from this [wonderbar 
