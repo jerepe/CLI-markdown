@@ -1,7 +1,7 @@
 # My CLI repo
 
 This repo is an exercise intended to further familiarize myself 
-with the CLI.
+with the CLI[^1].
 
 It has been created using content from this [wonderbar 
 page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -17,7 +17,7 @@ Of course ... you are **NOT** allowed to scrowl down before checking my
 
 ### Bulleted listing:
 
-- More markdowns incoming ....
+- More markdowns incoming[^2] ....
   - *Markdown is a lightweight markup language for styling text.*
      - no more ideas ....
  
@@ -41,7 +41,7 @@ git add
 git commit
 ```
 
-### One pic for all
+### One pic for all[^3]
 ![One pic for all](https://pbs.twimg.com/media/FRbf6h4WUAERgPt?format=jpg&name=4096x4096)
 
 ### Task time ! Until the 7th May 2022, i need to
