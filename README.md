@@ -1,6 +1,6 @@
 # My CLI repo
 
-\+This\ repo is \**an\ exercise\**\ intended to further familiarize 
+\+This\ repo is \**an\ exercise\** intended to further familiarize 
 myself 
 with the CLI[^1].
 
