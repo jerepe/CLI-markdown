@@ -3,6 +3,9 @@
 This repo is an exercise intended to further familiarize myself 
 with the CLI.
 
+It has been created using content from this [wonderbar 
+page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 My goal is to use the CLI as much as possible, and therefore a GUI as less as possible.
 
 Of course ... you are **NOT** allowed to scrowl down before checking my 
