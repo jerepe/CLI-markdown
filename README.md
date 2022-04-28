@@ -53,3 +53,9 @@ git commit
 
 # Emojis' time :stopwatch:
 A :computer: and my :girl: is what i see right now
+
+### Footnotes (you'll have to search them ... they could be fake !)
+
+[^1] First fake footnote
+[^2] Second maybe fake footnote
+[^3] Cheeseburger footnote
