@@ -9,7 +9,7 @@ My goal is to use the CLI as much as possible, and therefore a GUI as less as po
 
 > let's see what this markdown gives us
 
-Lists:
+Bulleted listing:
 
 * More markdowns incoming ....
  
@@ -18,3 +18,7 @@ Lists:
 * HTML
  
 	HTML stands for HyperText Markup Language.
+
+1. First point
+
+2. And a second one !
