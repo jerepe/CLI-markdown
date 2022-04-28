@@ -9,11 +9,12 @@ My goal is to use the CLI as much as possible, and therefore a GUI as less as po
 
 > let's see what this markdown gives us
 
+Lists:
 
 * More markdowns incoming ....
  
-   Markdown is a lightweight markup language for styling text.
+	Markdown is a lightweight markup language for styling text.
  
 * HTML
  
-   HTML stands for HyperText Markup Language.
+	HTML stands for HyperText Markup Language.
