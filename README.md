@@ -46,9 +46,9 @@ git commit
 
 ### Task time ! Until the 7th May 2022, i need to
 
-- [] finish my [Git & GitHub course](https://www.codecademy.com/learn/learn-git)
-- [] cover the basics of Python
-- [] cover the basic of JS
-- [] cover the basics of SQL
+- [ ] finish my [Git & GitHub course](https://www.codecademy.com/learn/learn-git)
+- [ ] cover the basics of Python
+- [ ] cover the basic of JS
+- [ ] cover the basics of SQL
 
 
