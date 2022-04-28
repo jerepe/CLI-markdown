@@ -57,5 +57,5 @@ A :computer: and my :girl: is what i see right now
 ### Footnotes (you'll have to search them ... they could be fake !)
 
 [^1]: First footnote
-[^2]: Second (maybe fake) footnote
-[^3]: :hamburger: footnote
+[^2]:   Second (maybe fake) footnote
+[^3]:     :hamburger: footnote
