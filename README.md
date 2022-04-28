@@ -6,7 +6,7 @@ with the CLI.
 My goal is to use the CLI as much as possible, and therefore a GUI as less as possible.
 
 But first things first: you are **NOT** allowed to scrowl down before checking my 
-[blog](https://www.jeremyperreau.com/).
+###[blog](https://www.jeremyperreau.com/).
 
 ### New **markdown**
 
