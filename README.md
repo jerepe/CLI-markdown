@@ -51,4 +51,5 @@ git commit
 - [ ] cover the basic of JS
 - [ ] cover the basics of SQL
 
-
+# Emojis' time :stopwatch:
+A :computer: and my :girl: is what i see right now
