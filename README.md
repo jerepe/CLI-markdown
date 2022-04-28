@@ -5,9 +5,10 @@ with the CLI.
 
 My goal is to use the CLI as much as possible, and therefore a GUI as less as possible.
 
-. learning about **markdown**
+## New **markdown**
 
 > let's see what this markdown gives us
+
 
 * More markdowns incoming ....
  
