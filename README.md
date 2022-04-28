@@ -13,11 +13,11 @@ Bulleted listing:
 
 * More markdowns incoming ....
  
-	Markdown is a lightweight markup language for styling text.
+	*Markdown is a lightweight markup language for styling text.*
  
 * HTML
  
-	HTML stands for HyperText Markup Language.
+	~HTML stands for HyperText Markup Language.~
 
 1. First point
 
