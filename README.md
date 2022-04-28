@@ -1,8 +1,7 @@
 # My CLI repo
 
-This repo is an exercise intended to further familiarize 
-myself 
-with the CLI[^1].
+This repo is an exercise intended to further familiarize myself with the CLI[^1].
+Meaning: i'll try my best to do everything using **only** the CLI and zsh.
 
 It has been created using content from this [wonderbar 
 page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
