@@ -14,13 +14,11 @@ Of course ... you are **NOT** allowed to scrowl down before checking my
 
 ### Bulleted listing:
 
-* More markdowns incoming ....
+- More markdowns incoming ....
+  - *Markdown is a lightweight markup language for styling text.*
  
-	*Markdown is a lightweight markup language for styling text.*
- 
-* HTML
- 
-	~HTML stands for HyperText Markup Language.~
++ HTML
+  + ~HTML stands for HyperText Markup Language.~
 
 1. First point
 
