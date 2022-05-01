@@ -1,12 +1,10 @@
 # My CLI repo
 
-This repo is an exercise intended to further familiarize myself with the CLI[^1].
+This repo is an exercise intended to further familiarize myself with the CLI[^1] and train mardown's skills.
 
-It has been created using content from this [wonderbar 
-page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+I used content from this [page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Of course ... you are **NOT** allowed to scrowl down before checking my 
-### [blog](https://www.jeremyperreau.com/).
+Of course ... you are **NOT** allowed to scrowl down before checking my [blog](https://www.jeremyperreau.com/) :)
 
 ### New **markdown**
 
